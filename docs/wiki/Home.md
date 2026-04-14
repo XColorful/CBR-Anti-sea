@@ -6,8 +6,8 @@
 
 ## 指令
 
-- [防刷海指令](htttps://github.com/XColorful/BattleRoyale/wiki/Antisea-command)
-- [临时数据](htttps://github.com/XColorful/BattleRoyale/wiki/Temp-data-command)
+- [防刷海指令](https://github.com/XColorful/CBR-Anti-sea/wiki/Antisea-command)
+- [临时数据](https://github.com/XColorful/CBR-Anti-sea/wiki/Temp-data-command)
 
 # English
 
@@ -15,5 +15,5 @@
 
 ## Command
 
-- [Antisea command](htttps://github.com/XColorful/BattleRoyale/wiki/Antisea-command#English)
-- [Temporary data](htttps://github.com/XColorful/BattleRoyale/wiki/Temp-data-command#English)
+- [Antisea command](https://github.com/XColorful/CBR-Anti-sea/wiki/Antisea-command#English)
+- [Temporary data](https://github.com/XColorful/CBR-Anti-sea/wiki/Temp-data-command#English)
