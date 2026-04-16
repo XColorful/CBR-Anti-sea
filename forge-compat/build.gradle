@@ -73,8 +73,7 @@ dependencies {
 
     implementation project(":core")
 
-//    compileOnly fg.deobf(battleroyale_curse_maven)
-    compileOnly fg.deobf(files("${rootProject.projectDir}/libs/battleroyale-0.5.5-dev1-forge-1.20.1.jar"))
+    compileOnly fg.deobf(battleroyale_curse_maven)
 }
 
 tasks.named('jar', Jar).configure {
