@@ -6,9 +6,9 @@ import net.minecraftforge.fml.common.Mod;
 import xiao.battleroyale.api.common.McSide;
 
 @Mod(xiao.cbrantisea.CbrAntiSea.MOD_ID)
-public class CbrAntiSea {
+public class CbrAntiSeaForge {
 
-    public CbrAntiSea() {
+    public CbrAntiSeaForge() {
         Dist dist = FMLLoader.getDist();
         McSide mcSide = dist.isClient() ? McSide.CLIENT : McSide.DEDICATED_SERVER;
 
